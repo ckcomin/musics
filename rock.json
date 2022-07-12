@@ -2,51 +2,61 @@
     {
         "Song": "Born to Be Wild",
         "Artist": "Steppenwolf",
-        "Released": "1968"
+        "Released": "1968",
+        "Image": "https://ckcomin.github.io/musics/images/ROCK/A.jpg"
     },
     {
         "Song": "Basket Case",
         "Artist": "Green Day",
-        "Released": "1994"
+        "Released": "1994",
+        "Image": "https://ckcomin.github.io/musics/images/ROCK/B.jpg"
     },
     {
         "Song": "Bohemian Rhapsody",
         "Artist": "Queen",
-        "Released": "1975"
+        "Released": "1975",
+        "Image": "https://ckcomin.github.io/musics/images/ROCK/C.jpg"
     },
     {
         "Song": "I Love Rock'n'Roll",
         "Artist": "Joan Jett & the Blackhearts",
-        "Released": "1981"
+        "Released": "1981",
+        "Image": "https://ckcomin.github.io/musics/images/ROCK/D.jpg"
     },
     {
         "Song": "Another Brick in the Wall",
         "Artist": "Pink Floyd",
-        "Released": "1979"
+        "Released": "1979",
+        "Image": "https://ckcomin.github.io/musics/images/ROCK/E.jpg"
     },
     {
         "Song": "House Of The Rising Sun",
         "Artist": "The Animals",
-        "Released": "1964"
+        "Released": "1964",
+        "Image": "https://ckcomin.github.io/musics/images/ROCK/F.jpg"
     },
     {
         "Song": "Livin’ on a Prayer",
         "Artist": "Bon Jovi",
-        "Released": "1986"
+        "Released": "1986",
+        "Image": "https://ckcomin.github.io/musics/images/ROCK/G.jpg"
     },
     {
         "Song": "You Really Got Me",
         "Artist": "The Kinks",
-        "Released": "1964"
+        "Released": "1964",
+        "Image": "https://ckcomin.github.io/musics/images/ROCK/H.jpg"
     },
     {
         "Song": "Free Bird",
         "Artist": "Lynyrd Skynyrd",
-        "Released": "1973"   
+        "Released": "1973",
+        "Image": "https://ckcomin.github.io/musics/images/ROCK/I.jpg"   
     },
     {
         "Song": "Smoke on the Water",
         "Artist": "Deep Purple",
-        "Released": "1972"
+        "Released": "1972",
+        "Image": "https://ckcomin.github.io/musics/images/ROCK/J.jpg"
     }
 ]

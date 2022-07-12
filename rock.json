@@ -1,0 +1,52 @@
+[
+    {
+        "Song": "Born to Be Wild",
+        "Artist": "Steppenwolf",
+        "Released": "1968"
+    },
+    {
+        "Song": "Basket Case",
+        "Artist": "Green Day",
+        "Released": "1994"
+    },
+    {
+        "Song": "Bohemian Rhapsody",
+        "Artist": "Queen",
+        "Released": "1975"
+    },
+    {
+        "Song": "I Love Rock'n'Roll",
+        "Artist": "Joan Jett & the Blackhearts",
+        "Released": "1981"
+    },
+    {
+        "Song": "Another Brick in the Wall",
+        "Artist": "Pink Floyd",
+        "Released": "1979"
+    },
+    {
+        "Song": "House Of The Rising Sun",
+        "Artist": "The Animals",
+        "Released": "1964"
+    },
+    {
+        "Song": "Livin’ on a Prayer",
+        "Artist": "Bon Jovi",
+        "Released": "1986"
+    },
+    {
+        "Song": "You Really Got Me",
+        "Artist": "The Kinks",
+        "Released": "1964"
+    },
+    {
+        "Song": "Free Bird",
+        "Artist": "Lynyrd Skynyrd",
+        "Released": "1973"   
+    },
+    {
+        "Song": "Smoke on the Water",
+        "Artist": "Deep Purple",
+        "Released": "1972"
+    }
+]

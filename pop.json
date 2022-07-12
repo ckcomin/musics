@@ -2,51 +2,61 @@
     {
         "Song": "As It Was",
         "Artist": "Harry Styles",
-        "Released": "1 April 2022"
+        "Released": "1 April 2022",
+        "Image": "https://ckcomin.github.io/musics/images/POP/HARRY.jpg"
     },
     {
         "Song": "Heat Waves",
         "Artist": "Glass Animals",
-        "Released": "29 June 2020"
+        "Released": "29 June 2020",
+        "Image": "https://ckcomin.github.io/musics/images/POP/81vMxIyDZ9L._SS500_.jpg"
     },
     {
         "Song": "Sunroof",
         "Artist": "Nicky Youre & dazy",
-        "Released": "3 December 2021"
+        "Released": "3 December 2021",
+        "Image": "https://ckcomin.github.io/musics/images/POP/SUN.jpg"
     },
     {
         "Song": "Ghost",
         "Artist": "Justin Bieber",
-        "Released": "September 10, 2021"
+        "Released": "September 10, 2021",
+        "Image": "https://ckcomin.github.io/musics/images/POP/JB.jpg"
     },
     {
         "Song": "Shut Up and Dance",
         "Artist": "Walk the Moon",
-        "Released": "10 September 2014"
+        "Released": "10 September 2014",
+        "Image": "https://ckcomin.github.io/musics/images/POP/DANCE.jpg"
     },
     {
         "Song": "Party in the U.S.A",
         "Artist": "Miley Cyrus",
-        "Released": "11 August 2009"
+        "Released": "11 August 2009",
+        "Image": "https://ckcomin.github.io/musics/images/POP/PARTY.jpg"
     },
     {
         "Song": "Die Young",
         "Artist": "Kesha",
-        "Released": "25 September 2012"
+        "Released": "25 September 2012",
+        "Image": "https://ckcomin.github.io/musics/images/POP/Die_Young_(Kesha_song).jpg"
     },
     {
         "Song": "Sunflower",
         "Artist": "Post Malone & Swae Lee",
-        "Released": "19 October 2018"
+        "Released": "19 October 2018",
+        "Image": "https://ckcomin.github.io/musics/images/POP/SUNFLOWER.jpg"
     },
     {
         "Song": "Happier",
         "Artist": "Marshmello & Bastille",
-        "Released": "16 August 2018"
+        "Released": "16 August 2018",
+        "Image": "https://ckcomin.github.io/musics/images/POP/HAPPIER.jpg"
     },
     {
         "Song": "Shake It Off",
         "Artist": "Taylor Swift",
-        "Released": "19 August 2014"
+        "Released": "19 August 2014",
+        "Image": "https://ckcomin.github.io/musics/images/POP/TS.jpg"
     }
 ]

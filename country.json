@@ -8,46 +8,55 @@
     {
         "Song": "I Walk the Line",
         "Artist": "Johnny Cash",
-        "Released": "1957"
+        "Released": "1957",
+        "Image": "https://ckcomin.github.io/musics/images/81x54VOVHbL._SL1500_.jpg"
     },
     {
         "Song": "Jolene",
         "Artist": "Dolly Parton",
-        "Released": "1974"
+        "Released": "1974",
+        "Image": "https://ckcomin.github.io/musics/images/Jolene_(Dolly_Parton_album_-_cover_art).jpg"
     },
     {
         "Song": "Friends in Low Places",
         "Artist": "Garth Brooks",
-        "Released": "1990"
+        "Released": "1990",
+        "Image": "https://ckcomin.github.io/musics/images/Garth_Brooks_-_Friends_in_Low_Places.jpg"
     },
     {
         "Song": "Choices",
         "Artist": "George Jones",
-        "Released": "1999"
+        "Released": "1999",
+        "Image": "https://ckcomin.github.io/musics/images/81oqEMuImPL._SS500_.jpg"
     },
     {
         "Song": "Concrete Angel",
         "Artist": "Martina McBride",
-        "Released": "2001"
+        "Released": "2001",
+        "Image": "https://ckcomin.github.io/musics/images/71LKlJSqmmL._SS500_.jpg"
     },
     {
         "Song": "Kiss an Angel Good Morning",
         "Artist": "Charley Pride",
-        "Released": "1971"
+        "Released": "1971",
+        "Image": "https://ckcomin.github.io/musics/images/Kiss_an_Angel_Good_Mornin'_-_Charley_Pride.jpg"
     },
     {
         "Song": "Where Were You",
         "Artist": "Alan Jackson",
-        "Released": "2002"
+        "Released": "2002",
+        "Image": "https://ckcomin.github.io/musics/images/download.jpg"
     },
     {
         "Song": "Live Like You Were Dying",
         "Artist": "Tim McGraw",
-        "Released": "2004"
+        "Released": "2004",
+        "Image": "https://ckcomin.github.io/musics/images/418YfBjOsyL.jpg"
     },
     {
         "Song": "Beautiful Crazy",
         "Artist": "Luke Combs",
-        "Released": "2018"
+        "Released": "2018",
+        "Image": "https://ckcomin.github.io/musics/images/ab67616d0000b2730601ae73fbc9a0d2a8f8721a.jpg"
     }
 ]
